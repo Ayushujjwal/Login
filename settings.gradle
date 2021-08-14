@@ -1,0 +1,2 @@
+rootProject.name='PG3'
+include ':app'
